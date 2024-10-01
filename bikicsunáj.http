@@ -1,0 +1,6 @@
+@bikicsunáj_HostAddress = http://localhost:5252
+
+GET {{bikicsunáj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
